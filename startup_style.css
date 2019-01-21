@@ -1,0 +1,26 @@
+
+body{
+    background-image: url('background.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100%;
+}
+
+#mc-embedded-subscribe{
+   margin-top: 33%;
+   margin-left: 45%;
+   border-radius: 10px;
+}
+
+#mc-embedded-subscribe:hover {
+  background-color: orange;
+}
+
+h1{
+    font-size: 2rem;
+    color: white;
+    text-align: center;
+    margin-top: 5%;
+}
+
+
